@@ -11,7 +11,7 @@ How to use:
 2. After entering the vape folder, located games and enter it
 3. Locate a .lua file with the id of Roblox Bedwars (6872265039) and enter it (this file should look like 6872265039.lua)
 4. Select all contents (if on pc use Ctrl + A) and delete it.
-5. Replace all of it with the following script.
+5. Replace all of it with the "LOBBY" script.
 
 NB: If you dont see the file, join Roblox Bedwars and execute Vape, the file should now exist.
 
@@ -21,6 +21,6 @@ FOR MATCHES:
 2. After entering the vape folder, locate games and enter it
 3. Locate a .lua file with the id of Roblox Bedwars matches (6872274481) and enter it (this file should look like 6872274481.lua)
 4. Select all contents (if on Windows use Ctrl + A) and delete it.
-5. Replace all of it with the following script.
+5. Replace all of it with the "MATCHES" script.
 
 NB: If you dont see the file, join a Roblox Bedwars match and execute Vape, the file should now exist.
